@@ -1,0 +1,179 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "Question": "Which of the following is the correct name of React.js?",
+      "a": "React",
+      "b": "React.js",
+      "c": " ReactJS",
+      "d": "All of the above",
+      "ans": "d"
+    },
+    {
+      "id": 2,
+      "Question": "Which of the following are the advantages of React.js?",
+      "a": "React.js can increase the application's performance with Virtual DOM.",
+      "b": "React.js is easy to integrate with other frameworks such as Angular, BackboneJS since it is only a view library.",
+      "c": " React.js can render both on client and server side.",
+      "d": "All of the above",
+      "ans": "d"
+    },
+    {
+      "id": 3,
+      "Question": "Which of the following is not a disadvantage of React.js? ?",
+      "a": "React.js has only a view layer. We have put your code for Ajax requests, events and so on.",
+      "b": "The library of React.js is pretty large.",
+      "c": " The JSX in React.js makes code easy to read and write.",
+      "d": "The learning curve can be steep in React.js.",
+      "ans": "c"
+    },
+    {
+      "id": 4,
+      "Question": "What of the following is used in React.js to increase performance?",
+      "a": "Original DOM",
+      "b": "Virtual DOM",
+      "c": " Both A and B.",
+      "d": "None of the above.",
+      "ans": "b"
+    },
+    {
+      "id": 5,
+      "Question": "How many numbers of elements a valid react component can return?",
+      "a": "1",
+      "b": "2",
+      "c": " 3",
+      "d": "4",
+      "ans": "a"
+    }
+  ],
+  "NewUsers": [
+    {
+      "id": 1,
+      "email": "barry@gmail.com",
+      "name": "Allen",
+      "phone": "98741",
+      "password": "1230",
+      "isAdmin": false
+    },
+    {
+      "email": "nitin@123",
+      "name": "Nitin",
+      "phone": "111",
+      "password": "00",
+      "isAdmin": false,
+      "id": 2
+    },
+    {
+      "email": "shaad@gmail.com",
+      "name": "Ahmad",
+      "phone": "991",
+      "password": "000",
+      "isAdmin": false,
+      "id": 3
+    },
+    {
+      "email": "harshit@gmailcom",
+      "name": "Harshit",
+      "phone": "8445",
+      "password": "123",
+      "isAdmin": false,
+      "id": 4
+    },
+    {
+      "email": "adwait@gmail.com",
+      "name": "Adwait",
+      "phone": "777",
+      "password": "123",
+      "isAdmin": false,
+      "id": 5
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "8888",
+      "name": "Patrik",
+      "isAdmin": true,
+      "phone": "7784225",
+      "id": 6
+    }
+  ],
+  "selectedAnswers": [
+    {
+      "optionsSelected": [
+        "d",
+        "d",
+        "c",
+        "b",
+        "a"
+      ],
+      "Score": 5,
+      "Name": "Allen",
+      "id": 1
+    },
+    {
+      "optionsSelected": [
+        "d",
+        "b",
+        "a",
+        "b",
+        "a"
+      ],
+      "Score": 3,
+      "Name": "Nitin",
+      "id": 2
+    },
+    {
+      "optionsSelected": [
+        "d",
+        "d",
+        "c",
+        "c",
+        "a"
+      ],
+      "Score": 4,
+      "Name": "Ahmad",
+      "id": 3
+    },
+    {
+      "optionsSelected": [
+        "d",
+        "d",
+        "c",
+        "b",
+        "a"
+      ],
+      "Score": 5,
+      "Name": "Harshit",
+      "id": 4
+    },
+    {
+      "optionsSelected": [
+        "d",
+        "d",
+        "b",
+        "c",
+        "a"
+      ],
+      "Score": 3,
+      "Name": "Adwait",
+      "id": 5
+    },
+    {
+      "optionsSelected": [
+        "d",
+        "c",
+        "b",
+        "b",
+        "a"
+      ],
+      "Score": 3,
+      "Name": "Allen",
+      "id": 6
+    },
+    {
+      "optionsSelected": [],
+      "Score": 0,
+      "Name": "",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+GET http://localhost:8000/api/users
+
+###
+
+POST http://localhost:8000/api/users
+Content-Type: application/json
+
+[
+    {
+      
+      "email": "barry@gmail.com",
+      "name": "Allen",
+      "phone": "98741",
+      "password": "1230",
+      "isAdmin": false
+    },
+    {
+      "email": "nitin@123",
+      "name": "Nitin",
+      "phone": "111",
+      "password": "00",
+      "isAdmin": false
+    
+    },
+    {
+      "email": "shaad@gmail.com",
+      "name": "Ahmad",
+      "phone": "991",
+      "password": "000",
+      "isAdmin": false
+    
+    },
+    {
+      "email": "harshit@gmailcom",
+      "name": "as",
+      "phone": "12",
+      "password": "222",
+      "isAdmin": false
+    
+    },
+    {
+      "email": "adwait@gmail.com",
+      "name": "Adwait",
+      "phone": "777",
+      "password": "123",
+      "isAdmin": false
+    
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "8888",
+      "name": "Patrik",
+      "isAdmin": true,
+      "phone": "7784225"
+    
+    }
+]
